@@ -1,6 +1,11 @@
 # 💫 About Me:
-<br>Code enthusiast and passionate problem solver who enjoys learning new technologies and developing creative solutions. has experience in Python, JavaScript ,PHP<br>I’m currently working on Ecommerce Projects and Social Platform<br><br>🌱 I’m currently learning Kotlin , TypeScript , Machine Learning With Python and C++
+<br>🚀 Passionate Full Stack Developer | Innovator | Problem Solver
 
+A code enthusiast and problem solver who thrives on learning new technologies and developing creative solutions. I have experience in Python, JavaScript, PHP, React, and Node.js, with expertise in IoT and Machine Learning Integration.
+
+Currently working on Ecommerce Projects and Social Platforms, while expanding my knowledge in Kotlin, TypeScript, Machine Learning with Python, and C++. Constantly pushing boundaries to transform ideas into reality through innovation and technology.
+
+Let me know if you'd like any further refinements! 🚀💡
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shadrackkinsimba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadrackkinsimba) 
