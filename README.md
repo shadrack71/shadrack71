@@ -3,7 +3,7 @@
 
 A code enthusiast and problem solver who thrives on learning new technologies and developing creative solutions. I have experience in Python, JavaScript, PHP, React, and Node.js, with expertise in IoT and Machine Learning Integration.
 
-Currently working on Ecommerce Projects and Social Platforms, while expanding my knowledge in Kotlin, TypeScript, Machine Learning with Python, and C++. Constantly pushing boundaries to transform ideas into reality through innovation and technology.
+Currently working on Ecommerce Projects and Social Platforms, while expanding my knowledge in Kotlin, TypeScript, Machine Learning with Python, and C++ , IoT intergration and Projects. Constantly pushing boundaries to transform ideas into reality through innovation and technology.
 
 
 
