@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>🚀 Passionate Full Stack Developer | Innovator | Problem Solver 
 
-A code enthusiast and problem solver who thrives on learning new technologies and developing creative solutions. I have experience in Python,C/C++,JavaScript,PHP,Laravel,WordPress, ReactJs,ExpressJs,and Node.js,with expertise in IoT and Artificial intelligence and Machine Learning Integration.
+A code enthusiast and problem solver who thrives on learning new technologies and developing creative solutions. I have experience in Python,C/C++,JavaScript,PHP,Laravel,WordPress,MongoDb, ReactJs,ExpressJs,and Node.js,with expertise in IoT and Artificial intelligence and Machine Learning Integration.
 
 Currently working on Ecommerce Projects ,IoT , Social Platforms, while expanding my knowledge in Kotlin,ReactJs ,TypeScript, Machine Learning with Python, and C++ , IoT intergration and Projects. Constantly pushing boundaries to transform ideas into reality through innovation and technology.
 
