@@ -6,7 +6,6 @@ I have experience in Python,C/C++,JavaScript,PHP,Laravel,WordPress,MongoDB, Reac
 
 Currently working on Ecommerce Projects, IoT Systems, , Robotics, SaaS Products, Social Platforms, Al systems and Mobile Apps, while expanding my knowledge in Kotlin, ReactJS, TypeScript, Machine Learning with Python, and C++,IoT integration. Constantly pushing boundaries to transform ideas into reality through innovation and technology.
 
-
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shadrackkinsimba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadrackkinsimba) [![Website](https://img.shields.io/website?url=http%3A%2F%2Fhadrastechsolutions.com%2F)](http://hadrastechsolutions.com)
 
