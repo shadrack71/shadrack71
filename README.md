@@ -4,7 +4,7 @@
 A code enthusiast and problem solver who thrives on learning new technologies and developing creative solutions. 
 I have experience in Python,C/C++,JavaScript,PHP,Laravel,WordPress,MongoDB, ReactJs,ExpressJs,and Node.js,with expertise in IoT and Artificial intelligence and Machine Learning integration.
 
-Currently working on Ecommerce Projects, IoT Systems, , Robotics, SaaS Products, Social Platforms, Al systems and Mobile Apps, while expanding my knowledge in Kotlin, ReactJS, TypeScript, Machine Learning with Python, and C++,IoT integration. Constantly pushing boundaries to transform ideas into reality through innovation and technology.
+Currently working on Ecommerce Projects, IoT Systems, Hardware Systems, Robotics, SaaS Products, Social Platforms, Al systems and Mobile Apps, while expanding my knowledge in Kotlin, ReactJS, TypeScript, Machine Learning with Python, and C++,IoT integration. Constantly pushing boundaries to transform ideas into reality through innovation and technology.
 
 
 
