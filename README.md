@@ -1,10 +1,31 @@
-# About Me:
-<br>Passionate Full Stack Developer | IoT Engineer | Innovator | Problem Solver
-
-A code enthusiast and problem solver who thrives on learning new technologies and developing creative solutions.
-I have experience in Python, C/C++, JavaScript, PHP, Laravel, WordPress, MongoDB, ReactJS, ExpressJS and Node.js, with expertise in IoT, Artificial Intelligence and Machine Learning integration.
-
-Currently working on E-commerce Projects, IoT Systems, Hardware Systems, Robotics, SaaS Products, Social Platforms, AI Systems and Mobile Apps, while expanding my knowledge in Kotlin, ReactJS, TypeScript, Machine Learning with Python, C++ and IoT integration. Constantly pushing boundaries to transform ideas into reality through innovation and technology.
+# 👋 Hi, I'm Shadrack Kinsimba
+### Full Stack Developer · AI Engineer · IoT & Embedded Systems Engineer
+ 
+ Open to remote, hybrid & on-site roles &nbsp;|&nbsp;  **Open to work**
+ 
+I build software that ships and hardware that works. Over the past several years I have designed, built and maintained **20+ live websites and platforms** for NGOs, foundations and businesses across Kenya and beyond, ranging from e-commerce stores and donation portals to learning platforms and AI-powered tools.
+ 
+I run **[Hadras Tech Solutions](https://hadrastechsolutions.com)**, an independent tech agency where I handle the full product lifecycle myself: requirements gathering with clients, UI/UX design, front-end and back-end development, deployment, hosting, security and long-term maintenance.
+ 
+## What I Bring
+- **Full Stack Web Development:** React, TypeScript, Node.js, Express, Laravel (Filament), PHP, Flask, MySQL, MongoDB, Redis
+- **AI & Machine Learning:** AI agents and AI engineering, computer vision with OpenCV and TensorFlow (e.g. [AgriInsight plant disease detection](https://demos.hadrastechsolutions.com/agriinsight-ai-disease-detection)), data work with Pandas, NumPy and scikit-learn
+- **IoT, Electronics & Embedded Systems:** Arduino, Raspberry Pi, C/C++, sensor integration, robotics and hardware prototyping
+- **WordPress & Web Infrastructure:** custom themes and plugins, website security and hardening, SSL management, firewalls, backups, VPS hosting with Nginx/Apache
+- **E-commerce & Payments:** online stores, digital product shops and donation portals for nonprofits
+- **Design:** Figma, Adobe XD, Photoshop and Canva, so I can take a product from wireframe to production
+## Education & Experience
+- **Computer Engineering & Electronics** — Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya
+- **Founder & Lead Developer** — Hadras Tech Solutions (freelance agency serving NGOs and businesses)
+- **Trainer & Judge** — Kenya Science and Engineering Fair (KSEF), mentoring high school students building engineering and tech projects
+- **ICT Coach** — teaching and supporting learners in digital and technical skills
+## What I'm Looking For
+Roles as a **Full Stack Developer, Software Engineer, AI/ML Engineer, IoT/Embedded Engineer or WordPress Developer**, plus freelance and contract work. I work well independently and in teams, communicate clearly with non-technical clients, and care about delivering reliable, secure and maintainable products.
+ 
+## Currently
+- Building SaaS products, AI systems and automation workflows
+- Working on IoT, hardware and robotics projects
+- Learning more Kotlin (mobile apps), TypeScript and advanced Machine Learning
 
 
 
@@ -13,9 +34,9 @@ Currently working on E-commerce Projects, IoT Systems, Hardware Systems, Robotic
 
 
 
-# 🚀 Projects & Live Work:
+# Projects & Live Work:
 
-### 🛠️ Hadras Tech Solutions — Products & Platforms
+###  Hadras Tech Solutions — Products & Platforms
 | Project | Link |
 |---|---|
 | Hadras Tech Solutions | [hadrastechsolutions.com](https://hadrastechsolutions.com) |
@@ -24,14 +45,14 @@ Currently working on E-commerce Projects, IoT Systems, Hardware Systems, Robotic
 | Learning Platform | [learning.hadrastechsolutions.com](https://learning.hadrastechsolutions.com) |
 | Workflows | [workflows.hadrastechsolutions.com](https://workflows.hadrastechsolutions.com) |
 
-### 🧪 Demos
+### Demos
 | Project | Link |
 |---|---|
 | School Management System | [View Demo](https://demos.hadrastechsolutions.com/school-management) |
 | Real Estate Platform | [View Demo](https://demos.hadrastechsolutions.com/real_estate_project) |
 | AgriInsight — AI Plant Disease Detection | [View Demo](https://demos.hadrastechsolutions.com/agriinsight-ai-disease-detection) |
 
-### 🌍 NGO & Nonprofit Websites
+###  NGO & Nonprofit Websites
 | Project | Link |
 |---|---|
 | iConnect Kenya Initiative | [iconnectkenyainitiative.org](https://iconnectkenyainitiative.org) |
@@ -45,7 +66,7 @@ Currently working on E-commerce Projects, IoT Systems, Hardware Systems, Robotic
 | Reading Lenses | [readinglenses.org](https://readinglenses.org) · [Donate Portal](https://donate.readinglenses.org) |
 | Yeni Initiative | [yeniinitiative.org](https://yeniinitiative.org) · [Donate Portal](https://donate.yeniinitiative.org) |
 
-### 💼 Business & E-commerce Websites
+###  Business & E-commerce Websites
 | Project | Link |
 |---|---|
 | iConnect Kenya | [iconnectkenya.com](https://iconnectkenya.com) |
@@ -90,7 +111,7 @@ Currently working on E-commerce Projects, IoT Systems, Hardware Systems, Robotic
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shadrack71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
